@@ -87,6 +87,7 @@ Tools that generate UI, components, or convert designs into production frontend 
 - [Relume](https://www.relume.io) — AI tool that generates website sitemaps and wireframes from a prompt and exports components to Figma, Webflow, or React.
 - [Subframe](https://www.subframe.com) — AI-native design-to-code tool that generates pages and components and exports clean React code using Radix UI and Tailwind.
 - [TeleportHQ](https://teleporthq.io) — Low-code AI website builder that generates sites from prompts and exports production-ready code for React, Vue, Next.js, and Angular.
+- [UiChemy](https://uichemy.com) - Turns Figma designs, prompts and AI-built sites into native, editable WordPress pages.
 - [Uizard](https://uizard.io) — AI-powered UI design tool that generates wireframes, mockups, and prototypes from text prompts, sketches, or screenshots.
 - [Webflow AI Site Builder](https://webflow.com/ai-site-builder) — Webflow feature that turns a prompt into an editable multi-page site built on its CSS framework with styles and animations.
 
