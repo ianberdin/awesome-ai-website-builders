@@ -29,6 +29,7 @@ Tools that take a text prompt or a few questions and generate a complete, hostab
 - [Dorik AI](https://dorik.com) — No-code website builder that generates complete sites from text prompts and includes a drag-and-drop editor, CMS, and AI text and image generation.
 - [Durable](https://durable.com) — AI website builder for small and service businesses that generates a complete site in about 30 seconds and bundles CRM, invoicing, and marketing tools.
 - [GoDaddy Airo](https://www.godaddy.com/airo) — AI platform that creates websites and stores through conversation and bundles domain, logo, and marketing-content generation.
+- [Helmpages](https://helmpages.com/) — AI website builder for independent professionals; sites are built and kept up to date by sending a message.
 - [Hostinger AI Website Builder](https://www.hostinger.com/ai-website-builder) — AI builder that generates a website from a single prompt with integrated hosting.
 - [Jimdo Dolphin](https://www.jimdo.com) — AI builder that generates a multi-page website in about three minutes by asking questions about the user's business.
 - [Kleap](https://kleap.co) — AI website builder that generates deployable React sites from plain-language prompts, with domain, hosting, forms, analytics, SEO, and payments included.
