@@ -25,6 +25,7 @@ Tools that take a text prompt or a few questions and generate a complete, hostab
 - [Butternut AI](https://www.butternut.ai) — AI website builder for small businesses that generates a complete site from a prompt with hosting, SSL, SEO, blogs, and chatbot features.
 - [Chariot](https://chariotai.com) — AI web developer that builds and edits websites through a chat interface and handles publishing, hosting, SSL, and domains on paid plans.
 - [CodeDesign.ai](https://codedesign.ai) — AI website builder that generates sites from a chat prompt or drag-and-drop editor and can host, sync to WordPress, or export code.
+- [doany](https://doany.ai) — AI company builder that generates and hosts a business website and product from a plain-language idea, with Stripe payments and a free plan.
 - [Dora](https://www.dora.run) — No-code AI website builder focused on 3D-animated and scroll-interactive sites, generating custom designs from a prompt.
 - [Dorik AI](https://dorik.com) — No-code website builder that generates complete sites from text prompts and includes a drag-and-drop editor, CMS, and AI text and image generation.
 - [Durable](https://durable.com) — AI website builder for small and service businesses that generates a complete site in about 30 seconds and bundles CRM, invoicing, and marketing tools.
