@@ -22,6 +22,7 @@ AI website builders turn a text prompt, a few questions, or an existing design i
 Tools that take a text prompt or a few questions and generate a complete, hostable website.
 
 - [B12](https://www.b12.io) — AI website builder for professional-service businesses that generates a site in about a minute and adds scheduling, invoicing, and email marketing.
+- [blasa](https://blasa.shop) — AI website builder that turns a Google Maps listing into a live multilingual website for a local business, using copy from its real customer reviews, with a free plan.
 - [Butternut AI](https://www.butternut.ai) — AI website builder for small businesses that generates a complete site from a prompt with hosting, SSL, SEO, blogs, and chatbot features.
 - [Chariot](https://chariotai.com) — AI web developer that builds and edits websites through a chat interface and handles publishing, hosting, SSL, and domains on paid plans.
 - [CodeDesign.ai](https://codedesign.ai) — AI website builder that generates sites from a chat prompt or drag-and-drop editor and can host, sync to WordPress, or export code.
