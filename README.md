@@ -46,6 +46,7 @@ Tools that take a text prompt or a few questions and generate a complete, hostab
 - [Sitekick](https://www.sitekick.ai) — AI landing-page and website builder that generates pages with copy and images from a description, plus a drag-and-drop editor and hosting.
 - [Squarespace Blueprint AI](https://www.squarespace.com/websites/ai-website-builder) — AI builder, part of Squarespace's Design Intelligence suite, that generates a custom-designed site from brand inputs through guided choices.
 - [Strikingly AI](https://www.strikingly.com/s/ai_site_builder) — Website builder whose AI generates a single- or multi-page site with text, images, and sections from a title and description.
+- [Uvilno](https://uvilno.com) — Generates websites and web apps from prompts and provides an interactive preview for editing.
 - [Webador](https://www.webador.com/website-builder) — Website builder with an AI feature that generates a functional site from a description, aimed at small businesses and e-commerce.
 - [Wegic](https://wegic.ai) — Chat-based AI website builder that generates multi-page websites from a text description, with editing, custom domains, and one-click publishing.
 - [Wix AI Site Generator](https://www.wix.com/ai-website-builder) — AI flow that generates a full site from a set of questions, editable in the Wix drag-and-drop editor.
